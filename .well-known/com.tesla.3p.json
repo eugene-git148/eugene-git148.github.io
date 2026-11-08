@@ -1,4 +1,4 @@
 {
   "allowed_origins": ["*"],
-  "public_key": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEX1KgWr+T0I78wrs8V9UgJ7W3AvHhUtHVYTCAvJE1Y9qali5iM8hGsx9/Q7WfIJ66jyvtaP07E1DYWaeEJXRZbg==\n-----END PUBLIC KEY-----"
+  "public_key": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEX1KgWr+T0I78wrs8V9UgJ7W3AvHh\nUtHVYTCAvJE1Y9qali5iM8hGsx9/Q7WfIJ66jyvtaP07E1DYWaeEJXRZbg==\n-----END PUBLIC KEY-----"
 }
